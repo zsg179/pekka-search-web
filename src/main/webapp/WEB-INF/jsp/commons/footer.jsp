@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<div class="w" clstag="homepage|keycount|home2013|37a">
+<!-- <div class="w" clstag="homepage|keycount|home2013|37a">
 	<div id="service-2013">
 		<dl class="fore1">
 			<dt><b></b><strong>购物指南</strong></dt>
@@ -68,7 +68,7 @@
 		</div>
 		<span class="clr"></span>
 	</div>
-</div>
+</div> -->
 <div class="w" clstag="homepage|keycount|home2013|38a">
 	<jsp:include page="footer-links.jsp"></jsp:include>
 </div>
