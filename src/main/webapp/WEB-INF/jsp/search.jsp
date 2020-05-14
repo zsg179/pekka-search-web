@@ -57,9 +57,9 @@
 		<strong>￥<fmt:formatNumber groupingUsed="false" maxFractionDigits="2" minFractionDigits="2" value="${item.price / 100 }"/></strong>
 	</div>
 	<div class="service">由 皮卡 发货</div>
-	<div class="extra">
+	<!-- <div class="extra">
 		<span class="star"><span class="star-white"><span class="star-yellow h5">&nbsp;</span></span></span>
-	</div>
+	</div> -->
 </li>
 </c:forEach>
 </ul></div>
